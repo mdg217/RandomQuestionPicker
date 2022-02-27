@@ -1,0 +1,104 @@
+Figura dell’ingegnere del software
+Crisi del Software
+Dijkstra
+Legge di Brooks (O(N^2))
+Definizione Ingegneria Del Software
+Produzione di un software
+Modelli di processo
+Ruoli
+Tasks
+Linee Guida
+Attività più importanti
+Modello a Cascata
+Modello a Cascata con Feedback
+Modello a V
+Modello Incrementale
+Analisi dei requisiti
+Schema – SRS
+Importanza dell’analisi dei requisiti (scope creep)
+Elitazione dei requisiti
+Categorizzazione a 6 dimensioni
+VORD
+Priorità dei requisiti
+Definizione, prototipazione e review dei requisiti
+Tracciamento dei requisiti
+Prototipazione dei requisiti
+SRS: Software Requirement Specification
+Gestione dei progetti
+Planning
+Organizing
+Monitoring
+Adjusting
+Stima
+Function Points
+Tecniche di stima
+Cocomo II
+Valutazione della produttività
+Work breakdown structure (WBS)
+Monitoraggio
+Prezzo di un progetto software
+Scrum
+Caratteristiche di Scrum
+Il processo Scrum
+Burndown Chart
+Ruoli in Scrum
+Cerimonie
+Artefatti
+Team velocity
+Pianificazione nei metodi agili
+Planning Poker
+Forecasting “done”
+Comunicazione fra i membri del gruppo
+User Story
+Com’è fatta una User Story
+3C
+Criteri di accettazione
+Vantaggi
+INVEST
+Ciclo di vita delle User Story
+Tabella delle features
+Progettazione
+Krutchen
+Viste aggiuntive
+Stili Architetturali
+Tattiche architetturali
+Decomposizione
+UML
+State Diagram
+Sequence Diagram
+Progettazione GUI
+Buona progettazione
+Coesione
+Accoppiamento
+Legge di Demeter
+Introduzione al testing
+Testing
+Blackbox
+Whitebox
+Unit Testing
+Ispezione e revisione
+Metodi formali
+Analisi statica
+Test Driven Development
+Junit
+Git
+Git Hub
+Comandi
+Inizializzazione
+Esempi con merge
+PULL = MERGE + FETCH
+Esempi con remote
+Gestione dei conflitti
+Design Pattern Definizione
+Factory Method
+Abstract Factory
+Singleton
+Adapter Class
+Adapter Object
+Decorator
+Proxy
+Command
+Iterator
+State
+Strategy
+Observer
