@@ -4,6 +4,7 @@ You can use this Python3 Tool to stydy alone if you haven't some friends that ca
 
 
 <h2>Install Guide</h2>
-1. Create a directory with: mkdir "directory name"
+<p>
+1. Create a directory with: <code>mkdir "directory name"</code><br>
 2. Clone the project on your directory.
-  
+</p>
