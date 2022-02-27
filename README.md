@@ -14,6 +14,6 @@ You can use this Python3 Tool to stydy alone if you haven't some friends that ca
 <p>
   Prepare a file with the questions/arguments that you want use.<br>
   Open your terminal.<br>
-  Run the Python file with: <code>Python3 RQP.py</code><br>
+  Run the Python file with: <code>Python3 RQP.py "text file name"</code><br>
   Now you can go on in the questions with click ENTER key.
 </p>  
