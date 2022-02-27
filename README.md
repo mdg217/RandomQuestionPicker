@@ -10,8 +10,6 @@ You can use this Python3 Tool to stydy alone if you haven't some friends that ca
   Clone the repository into the directory: <code>git clone https://github.com/mdg217/RandomQuestionPicker</code><br>
 </p>
 <br>
-<hr>
-<br>
 <h2>Usage Example</h2>
 <p>
   Prepare a file with the questions/arguments that you want use.<br>
